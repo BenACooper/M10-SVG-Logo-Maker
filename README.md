@@ -19,7 +19,8 @@
     
   ## Usage
   The app is used by running "node index.js" in the terminal. This initializes a short interactive prompt to choose the logo text, text color, the background shape and the shape's color. Once all four paramters have been chosen the file will generate.
-  //Screenshot or Video here
+ 
+  [Video Demo](https://drive.google.com/file/d/17SosTr9c82u4q6jajLTniRFPCxNPHFzN/view)
 
   ## License
   This project is licensed under the MIT License.

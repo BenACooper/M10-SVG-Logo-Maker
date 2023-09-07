@@ -1,0 +1,7 @@
+
+      <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="300" height="200">
+        <rect width="300" height="200" fill="#EDD7FF" />
+        <text x="150" y="125" font-size="60" text-anchor="middle" fill="#D9FFD7" font-family="Times New Roman">
+          ABC
+        </text>
+      </svg>
